@@ -1,0 +1,4 @@
+--mongo-atlas
+
+username - "Shubh_tirkuta"
+passwprd - "R4WmCyj46OclBoQI"
